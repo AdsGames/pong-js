@@ -8,11 +8,11 @@ It features human vs human and human vs CPU gameplay.
 
 Simply run
 
-- `yarn`
-- `yarn dev`
+- `npm install`
+- `npm run dev`
 
 ## Building
 
 Simply run
 
-- `yarn build`
+- `npm run build`
